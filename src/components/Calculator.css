@@ -1,0 +1,17 @@
+button{
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+    border: none;
+}
+
+.operationButton {
+    background-color: gray;
+}
+
+.wrapper {
+    background-color: black;
+    border-radius: 1em;
+    margin: 30px;
+    text-align: center;
+}
